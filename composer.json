@@ -1,0 +1,6 @@
+{
+    "require": {
+        "wujunze/php-cli-color": "^2.4",
+        "james-heinrich/getid3": "^1.9"
+    }
+}
